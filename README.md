@@ -9,6 +9,6 @@ This week’s homework requires you to create an application that an employee ca
 The password can include special characters. If you’re unfamiliar with these, see this list of Password Special Characters from the OWASP Foundation.
 
 
-## Link to live URL : 
+## Link to live URL : https://dan297.github.io/UNIT-3-PasswordGenerator/passwordgenerator.html
 
 ## Link to GITHUB : 
